@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Bernier Distressed";
+    src: url("../fonts/BERNIERDISTRESSED-REGULAR.OTF") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "PT Sans", sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "Bernier Distressed", serif;
+}
+
+body {
+    font-family: "PT Sans", sans-serif;
+}
